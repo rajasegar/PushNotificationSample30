@@ -20,7 +20,7 @@
         Rajasegar Chandiran
         </author>
  <gap:plugin name="org.apache.cordova.device" />
- <gap:plugin name="com.phonegap.plugins.PushPlugin"/>
+ <gap:plugin name="com.phonegap.plugins.PushPlugin" />
  <gap:plugin name="org.apache.cordova.core.AudioHandler" />
  <gap:plugin name="org.apache.cordova.core.console" />
  <gap:plugin name="org.apache.cordova.core.dialogs" />
